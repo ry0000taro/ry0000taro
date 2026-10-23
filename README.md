@@ -33,13 +33,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ry0000taro&bg_color=fcfcfa&color=15151a&line=15151a&point=15151a&area_color=eceae4&title_color=15151a&hide_border=true" alt="Activity graph">
+  <img src="https://readme-activity-graph.vercel.app/graph?username=ry0000taro&bg_color=fcfcfa&color=15151a&line=15151a&point=15151a&area_color=eceae4&title_color=15151a&hide_border=true" alt="Activity graph">
 </p>
 
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ry0000taro&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies">
+  <img src="https://github-trophies.vercel.app/?username=ry0000taro&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies">
 </p>
 
 ## Projects
