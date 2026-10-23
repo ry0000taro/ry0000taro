@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/sewing-header.svg" alt="Welcome to my Github! Android Kotlin C" width="100%" />
+  <img src="assets/sewing-header.svg" alt="SHIDRYO - Vision, Android, Flutter, React Native" width="100%" />
 </div>
 
 <p align="center">
