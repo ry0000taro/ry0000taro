@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ry0000taro/ry0000taro/main/assets/embroidery-header.svg" alt="Hi, I'm ry0000taro" width="900">
-</p>
+<div align="center">
+  <img src="assets/sewing-header.svg" alt="Welcome to my profile! Android Engineer" width="100%" />
+</div>
 
 <p align="center">
   Kotlin / Flutter / C で開発しています。<br>
