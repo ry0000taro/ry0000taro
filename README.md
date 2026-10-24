@@ -23,7 +23,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ry0000taro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=fcfcfa&title_color=15151a&icon_color=15151a&text_color=55554f" alt="GitHub stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ry0000taro&layout=compact&hide_border=true&bg_color=fcfcfa&title_color=15151a&text_color=55554f" alt="Top languages">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ry0000taro&layout=compact&hide_border=true&bg_color=fcfcfa&title_color=15151a&text_color=55554f&exclude_repo=Mechatoronics-Joint-Exercise1-13" alt="Top languages">
 </p>
 
 ## Contributions
