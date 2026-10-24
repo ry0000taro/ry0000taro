@@ -2,14 +2,6 @@
   <img src="assets/sewing-header.svg" alt="SHIDERYO - Vision, Android, Flutter, React Native" width="100%" />
 </div>
 
-<p align="center">
-  Android / Flutter / React Native を中心に、何でも楽しく作っています。
-</p>
-
-<p align="center">
-  <a href="https://github.com/ry0000taro"><img src="https://img.shields.io/github/followers/ry0000taro?label=FOLLOWERS&logo=github&logoColor=white&color=15151a&style=flat-square" alt="followers"></a>
-</p>
-
 ## Tech Stack
 
 ![Android](https://img.shields.io/badge/-ANDROID-15151a?style=flat-square)
