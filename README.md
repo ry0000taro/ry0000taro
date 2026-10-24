@@ -14,7 +14,14 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ry0000taro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=fcfcfa&title_color=15151a&icon_color=15151a&text_color=55554f" alt="GitHub stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ry0000taro&layout=compact&hide_border=true&bg_color=fcfcfa&title_color=15151a&text_color=55554f&exclude_repo=Mechatoronics-Joint-Exercise1-13" alt="Top languages">
+</p>
+
+<!-- TODO: github-readme-stats の top-langs がフォーク除外等で実態と合わないため一時的に固定表示 -->
+<p align="center">
+  <b>Most Used Languages</b><br>
+  <img src="https://img.shields.io/badge/-Kotlin-15151a?style=flat-square" alt="Kotlin">
+  <img src="https://img.shields.io/badge/-TypeScript-15151a?style=flat-square" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Flutter-15151a?style=flat-square" alt="Flutter">
 </p>
 
 ## Contributions
