@@ -4,11 +4,14 @@
 
 ## Tech Stack
 
-![Android](https://img.shields.io/badge/-ANDROID-15151a?style=flat-square)
-![Kotlin](https://img.shields.io/badge/-KOTLIN-15151a?style=flat-square)
-![Flutter](https://img.shields.io/badge/-FLUTTER-15151a?style=flat-square)
-![React Native](https://img.shields.io/badge/-REACT%20NATIVE-15151a?style=flat-square)
-![C](https://img.shields.io/badge/-C-15151a?style=flat-square)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="44" height="44">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="44" height="44">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native" title="React Native" width="44" height="44">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="44" height="44">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="44" height="44">
+</p>
 
 ## Stats
 
