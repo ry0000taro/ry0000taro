@@ -25,4 +25,6 @@
 
 ## Contact
 
-<!-- 後で追加(X / Qiita / Zenn など) -->
+<a href="https://x.com/ry0000taro"><img src="https://img.shields.io/badge/-%40ry0000taro-15151a?style=flat-square&logo=x&logoColor=white" alt="X: @ry0000taro"></a>
+
+<!-- 後で追加(Qiita / Zenn など) -->
